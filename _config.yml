@@ -31,9 +31,9 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: Hexo # 页面title
+  title: Roger's blog # 页面title
   favicon: /favicon.png
-  board: <p>欢迎骚扰!</p> # 站点公告
+  board: <p>欢迎github follow</p> # 站点公告
   copyright: false # 底部版权信息
 
 # config
@@ -127,8 +127,8 @@ comment:
     ClientID:  #必须. GitHub Application Client ID.
     ClientSecret:  #必须. GitHub Application Client Secret.
   valine: # Valine. https://valine.js.org
-    appid:  # your leancloud application appid
-    appkey:  # your leancloud application appkey
+    appid: DN4ghxHMThRLBxKy5x8NdvJy-gzGzoHsz # your leancloud application appid
+    appkey: vw5Mc9XNWMBA4UDkisTVAvnY # your leancloud application appkey
     notify: false # mail notifier , https://github.com/xCss/Valine/wiki
     verify: false # Verification code
     placeholder: Just go go # comment box placeholder
@@ -164,7 +164,7 @@ pv:
         
 # wordcount
 postCount:
-  enable: false
+  enable: true
   wordcount: true  # 文章字数统计
   min2read: true  # 阅读时长预计 
 
@@ -187,7 +187,7 @@ profile:
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Roger
-  author_title: 游戏开发 & 后端开发
+  author_title: 游戏开发 & 后端开发(7 years+)
   author_description: 了解一点C++和Go
   location: Xi'an, China
   follow: https://github.com/luojiego
@@ -219,11 +219,8 @@ profile:
     # Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 后端开发
+    - 游戏开发
   # My Personal Works
   works:
     name:
