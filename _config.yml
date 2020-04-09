@@ -5,7 +5,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
+  # Books: books  # 豆瓣书单
   Links: links  # 友链
   About: about  # 关于
 
@@ -195,7 +195,6 @@ profile:
   social:
     links:
       github: https://github.com/luojiego
-      
       twitter: https://twitter.com/luojie710
 
       # behance: https://www.behance.net/cofess
@@ -223,10 +222,10 @@ profile:
     - 游戏开发
   # My Personal Works
   works:
-    name:
-      link: http://www.example.com
-      date: 2016
+    移动充值服务端下单及验证:
+      link: https://github.com/luojiego/unifiedrecharge
+      date: 2020
   # My Personal Projects
   projects:
-    # cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/luojiego/hexo-theme-pure
+    luojiego/hexo-theme-pure: https://github.com/luojiego/hexo-theme-pure
+since: 2020
